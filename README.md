@@ -11,7 +11,8 @@ You will have labeled dataset in which each label has it's own folder.
 
 ##Sample Video
 
-<img width="400" height="350" src="/data/sample.gif"/><img width="400" height="350" src="/data/sample.gif"/>
+<img width="400" height="350" src="/data/sample.gif"/>
+
 
 
 ## Demo result
